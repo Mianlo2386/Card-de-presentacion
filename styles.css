@@ -104,7 +104,7 @@ a button:hover {
     }
     
 }
-@media (max-width: 412px) {
+@media (max-width: 500px) {
 
     .card {
         height: 500px;
