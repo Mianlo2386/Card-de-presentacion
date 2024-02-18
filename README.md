@@ -1,7 +1,8 @@
 # Card-de-presentacion
 
-![Captura de pantalla 2024-02-17 a las 17 49 50](https://github.com/Mianlo2386/Card-de-presentacion/assets/116380765/4ffc93a6-71d8-401e-8ec7-421c66bea47a)
+![_C__Users_User_Documents_ONE-Alura_Desafio%205_index html](https://github.com/Mianlo2386/Card-de-presentacion/assets/116380765/1cbe32ba-efef-4f6e-bae1-50204ec4664c)
 
+Proyecto de creación de una tarjeta de presentación con los enlaces a las redes principales.
 
 Tecnologías Utilizadas
 
