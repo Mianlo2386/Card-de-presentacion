@@ -1,13 +1,14 @@
 # Card-de-presentacion
 
+![Captura de pantalla 2024-02-17 a las 17 49 50](https://github.com/Mianlo2386/Card-de-presentacion/assets/116380765/4ffc93a6-71d8-401e-8ec7-421c66bea47a)
+
+
 Tecnologías Utilizadas
 
     HTML5
     CSS3
     JavaScript
-    ![Captura de pantalla 2024-02-17 a las 17 49 50](https://github.com/Mianlo2386/Card-de-presentacion/assets/116380765/924523f6-9c18-4e71-a96e-74039a418b1b)
-
-
+    
 Instalación
 
     Clona este repositorio: git clone https://github.com/tu-usuario/mi-proyecto.git
